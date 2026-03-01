@@ -2,7 +2,7 @@
 
 A high-performance, hand-picked directory of the world's most powerful AI tools for 2026. Built with a focus on speed, minimalism, and professional curation.
 
-Live Demo: [https://your-username.vercel.app](https://your-username.vercel.app)
+Live Demo: [View Live Site](https://aivault-hellogunvantsolankis-projects.vercel.app/)
 
 ---
 
